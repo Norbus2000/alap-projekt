@@ -1,0 +1,51 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "vizsgaTesztek",
+    "dateExported": "2023-05-31T09:05:17.223Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "36fb9b45-fe03-4429-b250-9477d785fede",
+            "colId": "51898d49-2786-4359-97a9-a56f445db86e",
+            "containerId": "",
+            "name": "http://localhost:8000/tesztek",
+            "url": "http://localhost:8000/tesztek",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-05-31T09:04:08.102Z",
+            "modified": "2023-05-31T09:04:08.102Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "d06987e2-008a-4612-b2f7-505679811b0b",
+            "colId": "51898d49-2786-4359-97a9-a56f445db86e",
+            "containerId": "",
+            "name": "http://localhost:8000/tesztek/kategoria/1",
+            "url": "http://localhost:8000/tesztek/kategoria/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-05-31T09:04:52.057Z",
+            "modified": "2023-05-31T09:04:52.057Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "acbbdee3-a29e-49fb-a91f-30831a3ef830",
+            "colId": "51898d49-2786-4359-97a9-a56f445db86e",
+            "containerId": "",
+            "name": "http://localhost:8000/kategoria",
+            "url": "http://localhost:8000/kategoria",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-05-31T09:05:10.657Z",
+            "modified": "2023-05-31T09:05:10.657Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
